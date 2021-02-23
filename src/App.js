@@ -1,9 +1,9 @@
 import React from 'react'
-import UserLanding from './Components/UserLanding/UserLanding';
+import Profile from './Components/Profile/Profile';
 export default function App() {
   return (
     <>
-        <UserLanding />
+        <Profile />
     </>
   )
 }

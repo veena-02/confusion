@@ -11,7 +11,7 @@ const UserLanding=()=>{
             <div style={{display:'flex'}}>
                 <div className='__leftsidebar' style={{display:'flex',flexDirection:'column' ,flex:1}} >
                     <div className="__adds"></div>
-                </div>
+                </div>  
                 <div className='__body' style={{flex:3}} >
                     <div style={{width:'100%',backgroundImage:`url${bgImg}`,height:100,marginTop:25,display:'flex'}}>
                         <Person className='__person' style={{fontSize:40}} />
